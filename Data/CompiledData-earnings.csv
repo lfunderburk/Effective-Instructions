@@ -1,0 +1,344 @@
+ID,Session,Treatment,SolvedSliders,Time,QuizScore,AnswersGiven,instructionsTwice,Paid,Quiz,Paper,Enhanced,Q1,Q2,Q3,Q4,Q5,Q6,Failures,Earnings,Questionnaire,Q1i,Q1ii,Q1iii,Q2i,Q2ii,Q2iii,Q3,Q4,Q5,Mention_instructions,Mistake_in_rules
+1,1,High,FALSE,1800,5,0,0,0,1,0,0,1,1,1,1,1,0,0,1500,0,,,,,,,,,,,
+2,1,High,TRUE,38.09918,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1950,0,,,,,,,,,,,
+3,1,High,TRUE,356.7488,3,0,0,0,1,0,0,0,0,0,1,1,1,0,1950,0,,,,,,,,,,,
+4,1,High,FALSE,1800,3,0,0,0,1,0,0,1,0,0,1,1,0,0,1500,0,,,,,,,,,,,
+5,1,High,TRUE,1261.967,6,0,0,0,1,0,0,1,1,1,1,1,1,0,2150,0,,,,,,,,,,,
+6,1,High,TRUE,1210.857,3,0,0,0,1,0,0,1,0,0,1,1,0,0,1950,0,,,,,,,,,,,
+7,1,High,TRUE,2.185425,4,0,0,0,1,0,0,1,0,1,1,1,0,0,1950,0,,,,,,,,,,,
+8,1,High,TRUE,626.8395,3,0,0,0,1,0,0,0,0,0,1,1,1,0,1950,0,,,,,,,,,,,
+9,1,High,TRUE,1355.911,4,0,0,0,1,0,0,1,0,0,1,1,1,0,1850,0,,,,,,,,,,,
+10,1,High,TRUE,89.62152,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1950,0,,,,,,,,,,,
+11,1,High,TRUE,1261.484,6,0,0,0,1,0,0,1,1,1,1,1,1,0,2150,0,,,,,,,,,,,
+12,1,High,TRUE,1268.123,6,0,0,0,1,0,0,1,1,1,1,1,1,0,2150,0,,,,,,,,,,,
+13,1,High,TRUE,1.160339,5,0,0,0,1,0,0,0,1,1,1,1,1,0,1950,0,,,,,,,,,,,
+14,1,High,TRUE,1261.829,6,0,0,0,1,0,0,1,1,1,1,1,1,0,2150,0,,,,,,,,,,,
+15,1,High,TRUE,612.0581,4,0,0,0,1,0,0,1,0,0,1,1,1,0,1950,0,,,,,,,,,,,
+16,1,High,TRUE,1323.562,6,0,0,0,1,0,0,1,1,1,1,1,1,1,1800,0,,,,,,,,,,,
+17,1,High,TRUE,1262.026,5,0,0,0,1,0,0,1,0,1,1,1,1,0,2150,0,,,,,,,,,,,
+18,1,High,TRUE,216.182,4,0,0,0,1,0,0,0,1,0,1,1,1,0,1950,0,,,,,,,,,,,
+19,1,High,TRUE,1260.69,6,0,0,0,1,0,0,1,1,1,1,1,1,1,2150,0,,,,,,,,,,,
+20,1,High,TRUE,1260.428,6,0,0,0,1,0,0,1,1,1,1,1,1,1,2150,0,,,,,,,,,,,
+21,1,High,TRUE,1333.382,4,0,0,0,1,0,0,1,0,0,1,1,1,0,1850,0,,,,,,,,,,,
+22,2,High,TRUE,61.42432,2,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+23,2,High,TRUE,1600.938,2,0,0,0,1,0,0,,,,,,,0,925,0,,,,,,,,,,,
+24,2,High,TRUE,1263.369,6,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+25,2,High,TRUE,8.781799,6,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+26,2,High,TRUE,1257.449,6,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+27,2,High,TRUE,36.25702,2,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+28,2,High,TRUE,0.4169922,4,0,0,0,1,0,0,,,,,,,1,1225,0,,,,,,,,,,,
+29,2,High,TRUE,363.9211,3,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+30,2,High,TRUE,1333.864,3,0,0,0,1,0,0,,,,,,,0,1125,0,,,,,,,,,,,
+31,2,High,TRUE,19.38739,4,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+32,2,High,FALSE,1800,4,0,0,0,1,0,0,,,,,,,0,750,0,,,,,,,,,,,
+33,2,High,FALSE,1800,0,0,0,0,1,0,0,,,,,,,0,750,0,,,,,,,,,,,
+34,2,High,TRUE,1.283752,5,0,0,0,1,0,0,,,,,,,0,1225,0,,,,,,,,,,,
+35,2,High,TRUE,1292.891,6,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+36,3,Low,TRUE,105.926,5,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+37,3,Low,TRUE,1263.319,4,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+38,4,Low,TRUE,1063.836,2,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+39,4,Low,TRUE,344.9695,2,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+40,4,Low,TRUE,472.603,2,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+41,4,Low,TRUE,1261.566,5,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+42,4,Low,TRUE,1263.568,4,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+43,4,Low,TRUE,1297.904,3,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+44,4,Low,TRUE,1261.463,5,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+45,4,Low,TRUE,1260.685,4,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+46,4,Low,TRUE,1373.146,3,0,0,0,1,0,0,,,,,,,0,1125,0,,,,,,,,,,,
+47,4,Low,TRUE,86.53461,5,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+48,4,Low,TRUE,1262.05,4,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+49,5,Low,FALSE,1800,3,0,0,0,1,0,0,,,,,,,1,725,0,,,,,,,,,,,
+50,5,Low,TRUE,28.56079,5,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+51,5,Low,TRUE,591.9473,3,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+52,5,Low,TRUE,505.96,5,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+53,5,Low,TRUE,20.66132,3,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+54,5,Low,TRUE,1223.713,5,0,0,0,1,0,0,,,,,,,2,695,0,,,,,,,,,,,
+55,6,Low,TRUE,87.8822,4,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+56,6,Low,TRUE,1261.325,6,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+57,6,Low,TRUE,1265.237,5,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+58,6,Low,TRUE,150.0341,1,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+59,6,Low,TRUE,79.0813,5,0,0,0,1,0,0,,,,,,,0,745,0,,,,,,,,,,,
+60,6,Low,TRUE,1261.6,6,0,0,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+61,7,Low,TRUE,1261.564,4,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+62,7,Low,TRUE,1261.843,6,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+63,7,Low,TRUE,1261.797,4,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+64,7,Low,TRUE,1262.247,3,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+65,7,Low,TRUE,1261.562,5,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+66,7,Low,TRUE,1260.557,5,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+67,7,Low,TRUE,1269.118,6,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+68,7,Low,FALSE,1800,0,1,1,0,1,0,0,,,,,,,0,750,0,,,,,,,,,,,
+69,7,Low,TRUE,1284.21,6,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+70,7,Low,TRUE,1261.524,5,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+71,7,Low,FALSE,1800,3,1,1,0,1,0,0,,,,,,,0,750,0,,,,,,,,,,,
+72,7,Low,TRUE,1279.102,5,1,1,0,1,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+73,8,Low,TRUE,159.7546,1,1,1,0,1,0,0,,,,,,,0,750,0,,,,,,,,,,,
+74,8,Low,TRUE,1265.239,5,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+75,8,Low,TRUE,1263.797,6,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+76,8,Low,TRUE,1232.066,6,1,1,0,1,0,0,,,,,,,0,750,0,,,,,,,,,,,
+77,8,Low,TRUE,1262.292,6,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+78,8,Low,TRUE,1302.227,3,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+79,8,Low,TRUE,1261.139,5,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+80,8,Low,TRUE,1267.759,6,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+81,8,Low,TRUE,1260.94,5,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+82,8,Low,TRUE,1262.674,3,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+83,8,Low,TRUE,1262.284,4,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+84,8,Low,TRUE,1262.794,4,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+85,8,Low,TRUE,1261.952,5,1,1,0,1,0,0,,,,,,,0,1420,0,,,,,,,,,,,
+86,9,Low,TRUE,1261.493,5,1,0,0,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+87,9,Low,TRUE,1260.57,5,1,0,0,1,0,0,1,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+88,9,Low,TRUE,1264.268,5,1,0,0,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+89,9,Low,TRUE,1265.445,5,1,0,0,1,0,0,1,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+90,9,Low,FALSE,1800,2,1,0,0,1,0,0,0,0,0,1,1,0,0,750,0,,,,,,,,,,,
+91,9,Low,TRUE,592.3475,2,1,0,0,1,0,0,0,0,0,1,1,0,0,745,0,,,,,,,,,,,
+92,9,Low,TRUE,1365.427,5,1,0,0,1,0,0,1,1,0,1,1,1,0,1125,0,,,,,,,,,,,
+93,9,Low,TRUE,1263.461,3,1,0,0,1,0,0,0,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+94,9,Low,FALSE,1800,5,1,0,0,1,0,0,1,1,0,1,1,1,0,750,0,,,,,,,,,,,
+95,9,Low,TRUE,1260.796,4,1,0,0,1,0,0,1,1,0,1,0,1,0,1425,0,,,,,,,,,,,
+96,10,Low,TRUE,22.58795,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+97,10,Low,TRUE,1264.433,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+98,10,Low,TRUE,451.4116,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+99,10,Low,TRUE,1265.569,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+100,10,Low,TRUE,1261.986,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+101,10,Low,TRUE,1248.06,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+102,10,Low,TRUE,953.9586,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+103,10,Low,FALSE,1800,,0,0,0,0,0,0,,,,,,,0,750,0,,,,,,,,,,,
+104,10,Low,TRUE,519.155,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+105,10,Low,TRUE,1267.003,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+106,10,Low,TRUE,34.19556,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+107,10,Low,FALSE,1800,,0,0,0,0,0,0,,,,,,,0,750,0,,,,,,,,,,,
+108,10,Low,TRUE,1262.391,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+109,10,Low,FALSE,1800,,0,0,0,0,0,0,,,,,,,0,750,0,,,,,,,,,,,
+110,10,Low,FALSE,1800,,0,0,0,0,0,0,,,,,,,0,750,0,,,,,,,,,,,
+111,10,Low,TRUE,9.091248,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+112,11,Low,TRUE,1261.721,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+113,11,Low,TRUE,1261.033,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+114,11,Low,TRUE,1171.928,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+115,11,Low,TRUE,1262.714,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+116,11,Low,FALSE,1800,,0,0,0,0,0,0,,,,,,,0,750,0,,,,,,,,,,,
+117,11,Low,TRUE,49.09229,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+118,11,Low,TRUE,1281.848,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+119,11,Low,TRUE,1262.833,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+120,11,Low,TRUE,1200.996,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+121,11,Low,TRUE,1046.374,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+122,11,Low,TRUE,302.8922,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+123,12,Low,TRUE,1187.597,4,1,0,0,1,0,0,1,1,0,1,1,0,0,745,0,,,,,,,,,,,
+124,12,Low,TRUE,1295.857,6,1,0,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+125,12,Low,TRUE,1260.72,5,1,0,0,1,0,0,1,1,1,0,1,1,0,1425,0,,,,,,,,,,,
+126,12,Low,TRUE,1246.631,2,1,0,0,1,0,0,0,0,0,0,1,1,0,745,0,,,,,,,,,,,
+127,12,Low,TRUE,1263.099,6,1,0,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+128,12,Low,TRUE,1262.002,6,1,0,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+129,12,Low,TRUE,1320.702,4,1,0,0,1,0,0,0,1,0,1,1,1,0,1125,0,,,,,,,,,,,
+130,12,Low,TRUE,1262.894,5,1,0,0,1,0,0,0,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+131,13,Low,TRUE,1262.628,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+132,13,Low,TRUE,1262.293,4,1,0,1,1,0,0,1,1,0,0,1,1,0,1425,0,,,,,,,,,,,
+133,13,Low,TRUE,1260.775,5,1,0,1,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+134,13,Low,TRUE,1260.517,5,1,0,1,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+135,13,Low,TRUE,1250.199,5,1,0,1,1,0,0,1,1,0,1,1,1,0,745,0,,,,,,,,,,,
+136,13,Low,TRUE,93.79919,3,1,0,1,1,0,0,0,0,0,1,1,1,0,745,0,,,,,,,,,,,
+137,13,Low,TRUE,1262.27,4,1,0,1,1,0,0,0,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+138,13,Low,TRUE,1260.984,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+139,13,Low,TRUE,18.43756,5,1,0,1,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+140,13,Low,TRUE,8.543823,5,1,0,1,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+141,13,Low,FALSE,1800,2,1,0,1,1,0,0,1,0,0,0,1,0,0,750,0,,,,,,,,,,,
+142,13,Low,TRUE,1262.188,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+143,14,Low,TRUE,1258.304,2,1,0,0,1,0,0,0,0,0,1,1,0,0,745,0,,,,,,,,,,,
+144,14,Low,TRUE,1263.786,4,1,0,0,1,0,0,1,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+145,14,Low,FALSE,1800,3,1,0,0,1,0,0,0,0,0,1,1,1,0,750,0,,,,,,,,,,,
+146,14,Low,TRUE,78.78662,3,1,0,0,1,0,0,1,0,0,1,1,0,0,745,0,,,,,,,,,,,
+147,14,Low,TRUE,1347.678,3,1,0,0,1,0,0,0,0,0,1,1,1,0,1125,0,,,,,,,,,,,
+148,14,Low,TRUE,6.898865,5,1,0,0,1,0,0,1,1,0,1,1,1,0,745,0,,,,,,,,,,,
+149,14,Low,TRUE,1260.448,4,1,0,0,1,0,0,0,0,1,1,1,1,0,1425,0,,,,,,,,,,,
+150,15,Low,TRUE,1261.939,4,1,0,1,1,0,0,0,1,1,0,1,1,0,1425,0,,,,,,,,,,,
+151,15,Low,TRUE,1261.078,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+152,15,Low,FALSE,0,4,1,0,1,1,0,0,1,0,0,1,1,1,0,750,0,,,,,,,,,,,
+153,15,Low,TRUE,1260.829,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+154,15,Low,TRUE,12.45697,3,1,0,1,1,0,0,1,1,0,0,1,0,0,745,0,,,,,,,,,,,
+155,15,Low,FALSE,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,750,0,,,,,,,,,,,
+156,15,Low,TRUE,1260.848,2,1,0,1,1,0,0,0,0,0,1,1,0,0,1425,0,,,,,,,,,,,
+157,15,Low,TRUE,1770.786,4,1,0,1,1,0,0,1,1,0,1,1,0,0,725,0,,,,,,,,,,,
+158,15,Low,TRUE,1262.65,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+159,15,Low,TRUE,1263.096,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+160,15,Low,TRUE,1737.44,2,1,0,1,1,0,0,0,0,0,1,1,0,0,825,0,,,,,,,,,,,
+161,15,Low,TRUE,1261.566,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+162,15,Low,TRUE,1261.456,5,1,0,1,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+163,15,Low,TRUE,1260.713,4,1,0,1,1,0,0,1,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+164,15,Low,TRUE,199.4575,5,1,0,1,1,0,0,1,1,0,1,1,1,0,745,0,,,,,,,,,,,
+165,15,Low,TRUE,1263.275,4,1,0,1,1,0,0,1,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+166,16,Low,TRUE,1260.808,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+167,16,Low,TRUE,1264.163,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+168,16,Low,TRUE,1288.036,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+169,16,Low,TRUE,168.175,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+170,16,Low,TRUE,1260.581,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+171,16,Low,TRUE,1260.805,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+172,16,Low,TRUE,1260.673,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+173,16,Low,TRUE,1098,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+174,16,Low,FALSE,1800,,0,0,0,0,0,0,,,,,,,0,750,0,,,,,,,,,,,
+175,16,Low,TRUE,1261.039,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+176,16,Low,TRUE,1261.048,,0,0,0,0,0,0,,,,,,,0,1425,0,,,,,,,,,,,
+177,16,Low,TRUE,113.0499,,0,0,0,0,0,0,,,,,,,1,720,0,,,,,,,,,,,
+178,16,Low,TRUE,1238.274,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+179,16,Low,TRUE,1204.939,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+180,16,Low,TRUE,15.73175,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+181,16,Low,TRUE,1250.702,,0,0,0,0,0,0,,,,,,,0,745,0,,,,,,,,,,,
+182,17,Low,TRUE,1296.464,4,1,0,0,1,0,0,1,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+183,17,Low,TRUE,1282.385,6,1,0,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+184,17,Low,TRUE,50.35461,3,1,0,0,1,0,0,0,1,1,0,1,0,0,745,0,,,,,,,,,,,
+185,17,Low,TRUE,1203.552,5,1,0,0,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+186,17,Low,TRUE,1267.513,5,1,0,0,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+187,17,Low,TRUE,1203.653,5,1,0,0,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+188,17,Low,TRUE,25.3028,1,1,0,0,1,0,0,0,0,0,0,1,0,0,745,0,,,,,,,,,,,
+189,17,Low,TRUE,1352.485,4,1,0,0,1,0,0,0,1,1,1,1,0,0,1125,0,,,,,,,,,,,
+190,17,Low,TRUE,1159.538,2,1,0,0,1,0,0,0,0,0,0,1,1,0,745,0,,,,,,,,,,,
+191,17,Low,TRUE,100.5481,4,1,0,0,1,0,0,1,1,0,1,1,0,0,745,0,,,,,,,,,,,
+192,17,Low,TRUE,1265.358,4,1,0,0,1,0,0,1,1,0,0,1,1,0,1425,0,,,,,,,,,,,
+193,18,Low,TRUE,1326.757,4,0,0,0,1,0,0,1,0,0,1,1,1,0,1125,0,,,,,,,,,,,
+194,18,Low,FALSE,1800,2,0,0,0,1,0,0,0,0,0,1,0,1,0,750,0,,,,,,,,,,,
+195,18,Low,TRUE,91.77313,3,0,0,0,1,0,0,0,1,0,1,1,0,0,745,0,,,,,,,,,,,
+196,18,Low,TRUE,74.60437,3,0,0,0,1,0,0,0,1,1,0,1,0,0,745,0,,,,,,,,,,,
+197,18,Low,TRUE,1265.067,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+198,19,Low,TRUE,1266.422,6,1,1,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+199,19,Low,TRUE,165.4312,4,1,1,0,1,0,0,1,1,0,1,1,0,0,745,0,,,,,,,,,,,
+200,19,Low,TRUE,482.5954,3,1,1,0,1,0,0,0,0,1,0,1,1,0,745,0,,,,,,,,,,,
+201,19,Low,TRUE,1261.605,6,1,1,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+202,19,Low,TRUE,1261.199,6,1,1,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+203,19,Low,TRUE,1261.165,5,1,1,0,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+204,19,Low,TRUE,1267.774,6,1,1,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+205,19,Low,TRUE,1182.18,4,1,1,0,1,0,0,0,1,1,1,1,0,0,745,0,,,,,,,,,,,
+206,20,Low,TRUE,1261.25,5,1,0,1,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+207,20,Low,TRUE,1263.124,3,1,0,1,1,0,0,0,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+208,20,Low,TRUE,39.41223,3,1,0,1,1,0,0,0,1,0,1,0,1,0,745,0,,,,,,,,,,,
+209,20,Low,TRUE,1260.809,4,1,0,1,1,0,0,0,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+210,20,Low,TRUE,1260.785,5,1,0,1,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+211,20,Low,TRUE,1264.721,5,1,0,1,1,0,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+212,20,Low,TRUE,29.1781,2,1,0,1,1,0,0,0,0,1,0,0,1,0,745,0,,,,,,,,,,,
+213,20,Low,TRUE,1262.182,6,1,0,1,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+214,20,Low,FALSE,1800,5,1,0,1,1,0,0,1,1,1,1,1,0,0,750,0,,,,,,,,,,,
+215,20,Low,TRUE,41.23083,3,1,0,1,1,0,0,0,0,0,1,1,1,0,745,0,,,,,,,,,,,
+216,21,Low,TRUE,1263.525,6,1,1,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+217,21,Low,FALSE,1800,2,1,1,0,1,0,0,0,0,0,0,1,1,0,750,0,,,,,,,,,,,
+218,21,Low,TRUE,1261.903,6,1,1,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+219,21,Low,TRUE,52.22855,3,1,1,0,1,0,0,1,1,0,0,1,0,0,745,0,,,,,,,,,,,
+220,21,Low,TRUE,985.8091,4,1,1,0,1,0,0,1,0,0,1,1,1,0,745,0,,,,,,,,,,,
+221,22,Low,TRUE,1260.829,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+222,22,Low,FALSE,1800,2,0,0,0,1,0,0,0,0,0,0,1,1,0,750,0,,,,,,,,,,,
+223,22,Low,TRUE,52.77875,5,0,0,0,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+224,23,Low,TRUE,1261.823,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+225,23,Low,TRUE,1381.093,4,1,0,0,1,1,0,0,1,0,1,1,1,0,1075,0,,,,,,,,,,,
+226,23,Low,TRUE,1261.315,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+227,23,Low,TRUE,604.2205,5,1,0,0,1,1,0,0,1,1,1,1,1,0,745,0,,,,,,,,,,,
+228,23,Low,TRUE,459.7936,3,1,0,0,1,1,0,0,1,0,0,1,1,0,745,0,,,,,,,,,,,
+229,23,Low,TRUE,1260.983,5,1,0,0,1,1,0,1,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+230,23,Low,TRUE,1265.529,5,1,0,0,1,1,0,1,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+231,23,Low,TRUE,1261.796,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+232,23,Low,TRUE,1204.448,5,1,0,0,1,1,0,1,1,0,1,1,1,0,745,0,,,,,,,,,,,
+233,23,Low,TRUE,1271.248,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+234,24,Low,TRUE,1261.408,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+235,24,Low,TRUE,1234.225,5,1,0,0,1,1,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+236,24,Low,TRUE,1265.273,5,1,0,0,1,1,0,1,1,1,0,1,1,0,1425,0,,,,,,,,,,,
+237,24,Low,TRUE,1192.673,5,1,0,0,1,1,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+238,24,Low,TRUE,1265.856,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+239,24,Low,TRUE,811.9476,4,1,0,0,1,1,0,1,0,0,1,1,1,1,720,0,,,,,,,,,,,
+240,24,Low,TRUE,1262.652,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+241,24,Low,TRUE,1260.594,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+242,24,Low,TRUE,1174.066,5,1,0,0,1,1,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+243,24,Low,TRUE,1260.874,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+244,24,Low,TRUE,24.62091,4,1,0,0,1,1,0,0,1,1,1,1,0,0,745,0,,,,,,,,,,,
+245,24,Low,TRUE,1261.169,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+246,24,Low,TRUE,1260.633,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+247,25,Low,TRUE,1261.095,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+248,25,Low,TRUE,1263.097,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+249,25,Low,TRUE,1261.369,5,1,0,0,1,1,0,1,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+250,25,Low,TRUE,1261.943,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+251,25,Low,TRUE,1262.675,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+252,25,Low,TRUE,1263.145,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+253,25,Low,TRUE,1262.573,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+254,25,Low,TRUE,1262.168,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+255,25,Low,TRUE,1260.33,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+256,25,Low,TRUE,1261.248,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+257,25,Low,TRUE,37.55756,5,1,0,0,1,1,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+258,25,Low,TRUE,1299.728,5,1,0,0,1,1,0,1,1,1,1,1,0,0,1425,0,,,,,,,,,,,
+259,25,Low,TRUE,1319.064,4,1,0,0,1,1,0,1,1,0,1,1,0,0,1425,0,,,,,,,,,,,
+260,25,Low,TRUE,1292.358,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+261,25,Low,TRUE,1263.903,6,1,0,0,1,1,0,1,1,1,1,1,1,0,1425,0,,,,,,,,,,,
+262,25,Low,FALSE,1279.729,6,1,0,0,1,1,0,1,1,1,1,1,1,0,725,0,,,,,,,,,,,
+263,25,Low,TRUE,1283.917,5,1,0,0,1,1,0,1,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+264,26,Low,TRUE,1224.354,1,0,0,0,1,0,0,0,0,0,0,1,0,0,745,0,,,,,,,,,,,
+265,26,Low,TRUE,1260.618,5,0,0,0,1,0,0,1,1,1,0,1,1,0,1425,0,,,,,,,,,,,
+266,26,Low,TRUE,214.688,3,0,0,0,1,0,0,0,0,1,1,1,0,0,745,0,,,,,,,,,,,
+267,26,Low,TRUE,628.008,1,0,0,0,1,0,0,0,0,0,0,1,0,0,745,0,,,,,,,,,,,
+268,26,Low,TRUE,1260.689,4,0,0,0,1,0,0,0,1,0,1,1,1,0,1425,0,,,,,,,,,,,
+269,26,Low,TRUE,41.89301,5,0,0,0,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+270,26,Low,TRUE,72.73346,5,0,0,0,1,0,0,1,1,1,1,1,0,0,745,0,,,,,,,,,,,
+271,26,Low,TRUE,1321.433,4,0,0,0,1,0,0,0,1,0,1,1,1,0,1125,0,,,,,,,,,,,
+272,27,Low,TRUE,388.7169,3,0,0,0,1,0,0,0,0,0,1,1,1,0,745,1,5,5,7,7,5,7,Could do task 2 for once and 30 period of task 1,When your earning is highest press j to switch,I am more into auction and sales experiment so I won't recommend this experiment.,0,0
+273,27,Low,TRUE,1200.882,3,0,0,0,1,0,0,0,0,0,1,1,1,0,745,1,6,7,7,7,7,7,"While task 1 was continuously ongoing, we had to press j to activate task 2 at an optimum period in order to maximize earnings.",By looking at the graph between perios 18-24 (~20(2)),Pay attention to the instructions.,1,0
+274,27,Low,FALSE,0,3,0,0,0,1,0,0,0,0,1,1,1,0,0,750,1,2,2,4,2,4,4,We just had to keep it jumping and let not to fall down.,I didn't switch to task 2.,Do the experiment with patience and read instructions very carefully.,1,0
+275,28,Low,TRUE,1298.032,5,0,0,0,1,0,0,1,1,0,1,1,1,0,1425,1,7,7,7,7,7,7,Jump to total 75 in each period. Switch to task 2 in period 22 for highest earning. Then keep jumping.,"As long as I am still in period 22. I reached the total height of 75 first, then switched. That way, I do not have to worry about the height when I come back to task 1 from task 2.",Nothing. It is pretty fun.,0,1
+276,28,Low,TRUE,25.28619,4,0,0,0,1,0,0,1,1,0,1,1,0,0,745,1,4,7,1,7,7,1,"In 30 periods, complete poodle jump and the slider. Poodle jump can get 75 cents in each period. Slider can get 700 cents at period 22.",Switch at period 22 after get 75 points in poodle jump.,Remember that task 2 can only be completed once.,0,0
+277,29,Low,TRUE,1262.084,5,0,0,0,1,0,0,1,1,1,0,1,1,0,1425,1,7,7,7,7,7,7,"Complete jumping task---there will be 30 periods of one minute each. Every 75 units jumped will be worth 25 cents. Switch to the sliding task anytime during experiment (only done once). However, period 22 will maximize earnings.",I waited to period 22 because that is the highest pay rate.,Read the instructions and follow them for more $.,1,0
+278,29,Low,TRUE,1260.711,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,6,7,7,7,7,7,"Play the poodle jump game in which height gives points at a rate which 75 units = $0.25. At 22 minutes, the bar slide game (which you press j to switch to) becomes the most valuable. After playing that, return to poodle jump until 30 min is over.","At 22 minutes it became the most valuable, so I switched then.",Watch the time to get 22 minutes.,0,1
+279,29,Low,TRUE,1215.785,4,0,0,0,1,0,0,0,1,0,1,1,1,0,745,1,7,7,7,7,7,7,Get the dog passed 75 and start task 2 at the 21st period.,I waited for period 21 then switched.,Going through one side makes the dog appear on the other.,0,1
+280,29,Low,TRUE,577.7401,3,0,0,0,1,0,0,1,1,0,1,0,0,0,745,1,7,7,1,7,6,7,Play task 1 until period to 21 (Don't let goat fall off from the platform) after period 22 switch task 2 to maximize.,After period 21 to maximize earnings.,Read the instructions carefully.,1,0
+281,30,Low,TRUE,65.93848,3,0,0,0,1,0,0,0,1,0,0,1,1,0,745,1,5,7,3,7,5,3,You will be doing one task along the entire experiment. You will be earning as long as you do it correctly. You have one and only chance to do another task in a given time to maximize earnings.,Press J accidentally :(,Get your hands off the keyboard!! Have a look at time quite often,0,0
+282,30,Low,TRUE,1261.296,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,"Task 1: divided into 30 periods, 25 cents for 75 units climbed. Task 2: Only once, period 22 gives maximum earning.","I kept the number 22 in mind and as soon as it hit 22, I switched the tasks.","Don't forget #22. The aim isn't to keep going higher, but it is to add as many units as possible, so fall when there are less pedestals.",0,0
+283,31,Low,TRUE,1262.672,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,"You have 30 minutes to complete 30 periods of task 1, each period takes 1 minute and you get 25 cents. You control the dog jumping up platforms w/ your mouse. You will be given one chance to complete task 2; this will take 1 minute. Do this at the correct time and you will earn more than you would in a period of task 1. For doing task 2 you lose 1 period of task 1.","I was told in the instructions that by doing task 2 at period 22, I would obtain the highest earnings. Hence I did it at that time.","The game is a bit boring but push through, it will be over soon!",0,0
+284,31,Low,TRUE,1184.991,4,0,0,0,1,0,0,0,1,0,1,1,1,0,745,1,6,5,7,5,6,7,"Click left right mouse button to jump higher and higher. When you jump 75 px you will earn 25c. If you fall down in a period, the height you jumped will remain & you can continue to jump. At the right time you need to start task 2 and set the slider at 50 in order to maximize your earnings.",From the earning graph I understood that 20th period is the right time to start the experiment.,Jump as high as possible.,0,1
+285,32,Low,TRUE,1261.093,5,0,0,0,1,0,0,1,1,0,1,1,1,0,1425,1,7,7,7,7,7,7,"There are 30 periods in which the goal was to reach a height of at least 75, if reached, the player gained +25 cents.",I followed instructions where it said 700 was rewarded by completing task 2 on the 22nd period.,Read instruction carefully.,1,0
+286,32,Low,TRUE,231.312,2,0,0,0,1,0,0,0,0,0,0,1,1,0,745,1,6,5,7,6,3,7,Only 30 mins. Only allowed to complete task 2 once. Earn money when reaching certain height. At task to adjust the switches to 50.,The best time to switch to task 2 is when the earning will be the highest at certain period. To be honest I only realized that after I switched to task 2 early in the game. :(,Read instructions properly. Pay attention to instruction. Don't just start playing without thinking. Don't switch to task 2 right away.,1,0
+287,32,Low,TRUE,1.466003,4,0,0,0,1,0,0,1,0,1,0,1,1,0,745,1,5,4,6,4,3,6,"To be honest, the rules of the experiment were a bit confusing but I just went with the flow. I understood that (x) height will give you (x) amount of dollars. The higher you went, the more money you got. Also, knew that you could only do task 2 once by pressing the ""j"" key.","Throughout the whole game, I was nervous if I switched to task 2 because I wasn't 100% sure if I could only switch once. Now thinking about it, if I switched to task 2 the entire game I would have earned more money with the duration I got.","My advice for a future participant is to treat this as an arcade game. Read all instructions clearly, if you don't understand it, ask. Poodles can also transfer from left to right, so that may help.",1,1
+288,32,Low,TRUE,1260.859,5,0,0,0,1,0,0,1,1,0,1,1,1,0,1425,1,7,7,7,7,7,7,"Task 1 occurs throughout the 30 periods, task 2 can only be completed once and will take up 1 period and is optional. The payout varies depending on which period you decide to do task 2.",Reference the chart from instructions.,Clearly read and reference the instructions.,1,0
+289,32,Low,TRUE,1266.896,5,0,0,0,1,0,0,1,1,0,1,1,1,0,1425,1,7,7,7,7,7,7,"Task 1 involves using the mouse buttons to move a poodle up different planks. At any time, a player can switch to task 2, but only task 2 can be completed once.",I decided to switch when task 2 offered the most which was at 22 times.,Keep track of how many levels you do to ensure you maximize your earnings.,0,0
+290,32,Low,TRUE,1262.249,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,1) Play poodle. 2) Wait for task 2 period. 3) Click j.,I remembered the period and monitored it during the game.,Remember the period of when to switch.,0,0
+291,32,Low,TRUE,1261.326,3,0,0,0,1,0,0,0,0,0,1,1,1,0,1425,1,6,7,7,7,7,7,"I understood that we have 2 tasks to perform. Task 1 is poodle jump for at least 75 floor to receive $25 cent in every period (1 period = 1 mins). We have total of 30 period. Task 2 is optional, the best time to perform task 2 is period (21-24). When we switch the screen to perform task 2 we cannot perform the period we were doing on task 1. Click j to switch from task.",I switch on completing task 2 on the period 22. I understood the graph of the instruction page. It illustrate the highest amount of money we can receive is on period 21-24.,Task 1 poodle jump the highest you jump the difficulty will increase. If time is on 30sec-40sec can't meet 75 floors. Die and start again. Easy to get another 20 floors. Switch task on period 22. Clicking j.,0,0
+292,32,Low,TRUE,1260.618,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,"Two tasks completed in 30 min intervals. If reached total height of 75 min in first task within 60 sec, you earn 25 cent. If completed task 2 during 22nd interval, you earn 700 cents, and 20 cents for any time before.",Kept an eye on period count on the top right counter to remind me when to make the switch.,Know when to switch to task 2.,0,0
+293,32,Low,TRUE,0.6461182,4,0,0,0,1,0,0,1,0,1,1,1,0,0,745,1,5,1,1,7,1,1,Play the game with the dog and switch to task 2 at 22 (or whenever you can maximize your earnings).,When the amount of money is the biggest.,Read instructions very well.,1,0
+294,32,Low,TRUE,1262.113,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,"Achieve 75 points in every period to earn 0.25 c in task 1. Task 2 can only be done once, by getting all 4 sliders to 50. Depending on when you do task 2, the earnings vary.",The graph was the clear indicator showing period 22 will maximize profit/earnings.,Read the instructions and they will be fine.,1,0
+295,32,Low,TRUE,1415.044,2,0,0,0,1,0,0,0,0,0,0,1,1,0,1075,1,3,3,6,7,2,5,To get as high as you could with the poodle. And also to compete the sliders at a certain point to max profits.,I thought I remembered something about switching a little over half way through but I couldn't remember.,READ INSTRUCTIONS CLOSELY.,1,1
+296,32,Low,TRUE,25.47791,5,0,0,0,1,0,0,1,1,1,1,1,0,0,745,1,3,1,1,7,5,1,Task 1: Make the poodle jump 75 steps in 60 sec. Task 2: Slide all sliders to exactly 50. You can switch from task 2 to task 1 whenever you want. But depending on the time when you make that switch you may get pay more. I didn't realize I can do task 2 only once.,Keep looking at the timer and switch between 38-40 sec.,Understand that task 2 can be invoked only ONCE!!!,0,0
+297,32,Low,TRUE,1262.641,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,"There are two tasks. Task 1 goes on throughout 30 period time. Task 2 can be switched by pressing j. The earnings from task 2 are highest at period 22, i.e. 700 cents, and decreases after that. You earn 25 cents from task 1 every time you reach a height of 75.",Earnings are maximum at period 22 so I switched then.,,0,0
+298,32,Low,TRUE,1271.037,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,7,6,7,7,7,7,"Task 1: Make the poodle jump. The higher it jumps in a period the higher is the earning. Do this for 30 periods. Task 2: Press 'j' to switch to task 2. When peroid <22, earning is 20 c. When period = 22 earning is 700 cents. When period is > 22, earning is reduced by 50 cents incrementally.","When I was clos to 22, I paid less attention to task 1. Less enough to switch at the right time.","When you reach like period 21, just focus on the clock. Don't bother if you keep falling down.",0,0
+299,32,Low,TRUE,1210.945,3,0,0,0,1,0,0,0,1,0,1,1,0,0,745,1,5,4,1,7,4,7,You only have once chance to switch to task 2 by pressing j. If you press j in the correct time you will get 700 cents max.,Switch at the max timing.,Read the instructions more carefully.,1,0
+300,33,Low,FALSE,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,750,1,3,5,7,7,4,7,Get the highest point and earn for points.,Found the game is difficult.,Read carefully. Be patient.,1,0
+301,33,Low,TRUE,1277.025,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,6,7,7,7,7,7,"In each period of 1 min, get a high of at least 75 to earn 25c/period. Press J to switch to task 2 (which you can only do once). Task 2 pay 25c before period 22, $7 at period 22, and $4 at period 23, decreasing at 25c/period.",,,0,0
+302,34,Low,TRUE,1271.746,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,7,6,7,7,7,7,Manuver the poodle to jump as high as possible until the 22nd period at which point you should complete task 2 (slide the bars to 50) and then return to the poodle game.,I kept an eye on the period tracker in the corner.,Stay calm.,0,1
+303,34,Low,TRUE,1320.344,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1125,1,1,1,1,1,1,1,Very easy and well described.,At period 22.,Be patient.,0,0
+304,34,Low,TRUE,107.1408,4,0,0,0,1,0,1,1,0,0,1,1,1,0,745,1,3,1,1,6,2,1,You can only complete task 2 once. Try to complete task 2 at 22nd period for maximum earning. Your data will be shown to you on upper right corner of your computer screen.,I wasn't clear on switching.,,0,0
+305,34,Low,FALSE,0,4,0,0,0,1,0,1,1,1,0,1,1,0,0,750,1,1,1,1,1,4,1,"If you taking task 1, you can change game into task 2, but you cannot turn back to task 1.",I did not turn to task 2 because I am not sure if I was perform good at task 2.,Stay on task 1.,0,1
+306,35,Low,TRUE,58.19525,2,0,0,0,1,0,0,1,1,0,0,0,0,0,745,1,3,5,2,5,5,1,"The rule is completing task 1 each time will earn 25 cents, and switch to task 2 and completing it will earn 20 cents each for the first 21 period and it will earn 7 dollars start in the 22 period and the pay will declare for the following period.",I wasn't aware I can only switch to task 2 only once. So I switched to task 2 in the first period.,Understand the rule and guidelines before proceeding.,1,0
+307,35,Low,TRUE,1200.929,4,0,0,0,1,0,0,0,1,0,1,1,1,0,745,1,6,7,7,7,7,7,"Experiment consisted of (1) task during 30 periods and another one (2) lasting for 1 period in between periods of task 1. Payoff for (2) depends on on when it is completed during the 30 periods and occupies one of those 30 periods. Task (1) payoff accrues 25c for each 75 distance achieved by jumps with the poodle, by clicking r and l mouse buttons.",When payoff was the highest.,Switch to task 2 any time between periods 20-21 that the nearest 75 distance was achieved. Poodle can cross the screen from borders.,0,1
+308,35,Low,TRUE,457.8748,5,0,0,0,1,0,0,1,1,0,1,1,1,0,745,1,5,5,2,7,7,1,Use the left and right buttons to move the poodle. Make the poodle land on the platform. If you get 75 m or higher in total within 1 min you make 25 c otherwise you make 0 c. Press j for bonus objective. Put the four lines to 50 to complete it. Can only be done once.,I thought it didn't mention number of times we could do the bonus so I did it very early on.,Don't get greedy.,0,0
+309,35,Low,TRUE,1263.629,4,0,0,0,1,0,0,1,1,0,0,1,1,0,1425,1,6,7,7,7,7,5,"You have a poodle that jumps on to platforms, each 75 units, you get paid 25c. You have an opportunity to earn 7.00$ extra if you switch to task 2 on period 22.","To maximize my earnings, I switched to task 2 on the 22nd period.","Make sure to get 150 cents per period. You get money a lot quicker in the earlier stages then later, so die when you hit 75c, then go again for another 75.",0,1
+310,35,Low,TRUE,1260.938,6,0,0,0,1,0,0,1,1,1,1,1,1,0,1425,1,6,7,7,6,7,7,"Get the doodle 75 height to earn 25 cents each period, for a total of 30 periods. Use j key to task 2.","Based on the graph in instructions, period 22 was best time to switch to task 2 for max earnings.",NA,0,0
+311,35,Low,TRUE,1321.239,5,0,0,0,1,0,0,1,1,1,1,1,0,0,1125,1,7,7,5,7,7,6,In task 1 we get 25 c if cross a height of 75 and to maximize earnings we should switch to task 2 at a period of 22. Each period was 1 minute long. Task 2 can only be done once. In total there are 30 periods.,"From the graph, task 2 had the highest earning in period 22.",Read the instructions carefully and switch to task 2 at the right time.,1,0
+312,35,Low,TRUE,1261.611,5,0,0,0,1,0,0,1,1,0,1,1,1,0,1425,1,2,1,1,1,1,2,30 periods: play doggy (puddle) game -> 25 cents per period if you make 75 height per minute or else zero. In between you could choose anytime to play slider game but at 22th period slider games pay 700 cents. Then 23th 400 cents decline by 50 thereafter. (Slider game can be played only once.),Remember 22th period and I didn't play game when I am higher than 75 points. That gives me time to think and check my period number. So when I have 30 seconds or less remaining and my score is over 75 then just didn't play game till new period starts.,Don't play game when you aare done with 75 points. Wait for next period. Main advice: Read instruction carefully (spend enough time). You can not go back to check instructions.,1,1
+313,36,Low,TRUE,33.50543,2,0,0,0,1,0,1,0,0,0,1,1,0,0,745,1,6,6,6,6,6,4,"Task 1: jump as high as possible to maximize the earnings. At unit 75, you can switch to task 2. At 20 minutes, you can maximize earnings from task 2 (only to once).",At around 20 minutes.,Do better in task 1 and maximize the profit from task 2 at around 20 minutes.,0,1
+314,36,Low,TRUE,1162.2,4,0,0,0,1,0,1,0,1,0,1,1,1,0,745,1,6,6,7,7,5,7,Task 2 can only be completed once and the time for switching from task 1 to task 2 should be determined based on the earnings.,I decided to switch to task 2 at the 20th period since that period can maximize my earnings.,Remember to look at the period number and don't forget to switch to task 2!,0,1
+315,36,Low,TRUE,1260.766,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,The experiment was simple. You keep on performing task 1 and you have to look out for task 2 to max your earnings.,To see the graph which shows max earning from task 2.,Focus on the lap going on as you can earn same from task 2 once as much as you earn from doing task 1 30 times.,0,0
+316,37,Low,TRUE,1297.95,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,2,1,1,1,1,5,Jump with minimum levels of 75. If you fall it's OK. Reach 75 under a minute. Click j at period 22.,Remember in instructions it said press j w/ 75 points in period 22.,Pay attention to the top right corner.,1,1
+317,38,Low,TRUE,1321.951,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1125,1,6,6,6,7,7,7,"Task 1: Poodle Jump game where you jump higher and higher on small blocks/platforms. If you jump 75 or more in 1 round (1 minute long), you get 25 cents. Task 2: 4 sliders that you must put at exactly 50. This task can only be completed once, and earnings are based on when task is started.","It would make sense to switch and start at the highest payout time. I actually thought there were 4 rounds of task 2, though.","It seems that when you just start jumping from the main platform the blocks are closer together. The game is already easy enough, but if you have trouble you can fall off on purpose since height does not get reset. Didn't catch onto any other tricks otherwise!",0,0
+318,38,Low,TRUE,1105.442,4,0,0,0,1,0,1,0,1,0,1,1,1,0,745,1,5,3,5,6,3,7,"No use of cell phones or looking at other computer screens. Complete tasks 1 and/or 2. Task 1 being the puppy task. Task 2 being the slider. No food, drinks while doing the experiment.","I decided to switch when I had thought to been the best turn to do task 2. Also when I had reached the final height to achieve the turn, purposely letting the puppy fall so that I could quickly finish task 2 and move ahead with doing the puppy task.",Remember the exact turn to switch to task 2 to maximize payout.,0,1
+319,39,Low,TRUE,1261.37,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,6,7,7,7,6,6,"30 rounds of a game, 29 of ""Poodle Jump"" and 1 of ""Slider Task."" If your poodle jumped 75 units of distance in each 1 minute round, you earn $.25. If you choose to complete ""Slider Task"" (which can only be completed once) in minute (or ""period"") 22, you earn $7. Any other round you complete ""Slider Task"" only earns you less money.",By looking at the graph to determine when payout was highest.,"Let your hand rest after you get your 75 units of distance, and just wait for the next period to start.",0,0
+320,39,Low,TRUE,1262.142,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,6,7,7,7,7,7,"30 sessions of 1 min each. Each session is a ""doodle jump"" like game (reference to a popular app), where you control a poodle with your mouse. Only the total height matters, not how high you got; this means that you can fall down and still meet your 75 quota. There exists a payoff structure such that after period 21 starting at 22nd, it is favourable to play the other slider game.",At 22nd period to max payoff.,22,0,0
+321,40,Low,TRUE,1260.797,5,0,0,0,1,0,1,1,0,1,1,1,1,0,1425,1,6,7,7,7,7,7,"Move the poodle up to a height of 75 each trial (minute). Complete task 2 one time (anytime). The max earning time to complete t2 is in trial 22. But if you miss trial 22, there are still higher earnings in 23+ trials.",To maximize earnings I decided to switch @ the start of 22 even though it removed my ability to gain 25c from task 1 at that trial (least risky).,"Keep your eye on trial #. Don't stress about task 1, it's almost impossible to fail. Have fun!",0,1
+322,40,Low,TRUE,1262.054,4,0,0,0,1,0,1,1,0,0,1,1,1,0,1425,1,5,7,7,7,7,7,Jump the poodle in each period (1:00 min) until you get 75 using left/right on mouse. On period 22 (21:00) press j and get the task 2 sliders to 50. Continue jumping the poodle in each period until they get to 75.,When it was on period 22 I pressed j. Most money man.,Forget about the poodle once you're at 75. Die strategically (it's easier after death). Pay attention to periods.,0,0
+323,40,Low,TRUE,1261.709,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,6,7,7,7,7,7,25c for every 75 height achieved in poodle jump. Move using left and right on mouse. 25c for switching to task 2 before period 22. 700c for switching in period 22.,"Roughly, I would only get 50c at most doing poodle jump for the whole period. So 700c for 1 period is more than 50c for 1 period.",,0,1
+324,40,Low,TRUE,214.7876,3,0,0,0,1,0,1,0,1,0,1,1,0,0,745,1,4,7,1,7,1,1,"The rules were that you could only switch to task 2 once, and had to switch past level 21 in order to get the most, incrementally decreasing. One could gain more by getting to height level 75 on poodle jump when not completing task 2.","I wasn't sure when to go to task 2 or whether to test it out. I tested it out early, then decided it wasn't worth my money to do it more over task 1, waited until 21 but found out I could not do task 2 again. I was unaware I could only do it once.",Wait til level 21!,0,0
+325,41,Low,TRUE,1262.06,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,4,7,7,7,7,7,"Play the game, after completing a certain benchmark in a given period, you would receive a small amount of money. At any time, you could enter a minigame for a substantially larger sum, and upon completion earn that sum.",Because it gave me more money.,You can go across the screen to the other side like in pacman.,0,0
+326,41,Low,TRUE,1260.329,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,7,6,7,7,7,7,"The experiment required that we jump with the poodle for 60s per round for a total of 29 or 30 rounds. For each successful height goal (75 height points in each 60s round) we received $0.25. At one point we could choose to switch to the slider task which would either be worth $0.20 for completion in <60s in rounds 1-21, $7.00 if in round 22, or decreasing amounts from round 23 on, decreasing by 0.50 per round. When we switched to the slider task we would not be able to go back to the jumping round.",I switched in round 22 without waiting to complete the jumps for that round because I noticed I hadn't timed how long was required per round to earn the 75 height points.,Time how long it takes to get to 75 height points factoring in falling. Probably this can be completed in round 22 before switching to the slider task.,0,1
+327,41,Low,TRUE,1263.569,3,0,0,0,1,0,1,1,0,0,0,1,1,0,1425,1,7,7,7,7,7,7,Perform task 1 (poodle jump) in which we must reach a height of 75 in a minute to get money for that minute. We could also switch to task 2 (sliders) once to receive a higher payment to complete it in a minute.,"From the instruction, it was clear that minute 22 was the best money-wise.",Take it easy.,0,0
+328,42,Low,TRUE,1261.323,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,Experiment had 2 tasks. Task 1 with the poodle paid 25 cents and switching to task 2 paid 700 cents. Switching to task 2 at other periods paid less.,When period 22 for poodle jump started I decided to switch to task 2.,It is an easy experiment.,0,0
+329,42,Low,TRUE,1270.635,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,7,7,7,7,7,7,"Play the game 30 rounds, you earn $0.25 if the score for each round is higher than 75. You can decide to play task 2 once and earn different amount of money depends on the time you choose to play it. Each round is 1 minute long.",I did task 2 at round 22 because I will get most money out of it.,Remember the rule.,0,0
+330,43,Low,TRUE,1261.775,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,5,6,6,7,7,7,Click right/left on mouse to control the jumping dog. The goal is to reach 75 levels high. You can switch to another game which ask you to slide the bar to 50 points.,Keep eyes on the timer switch when it's 22 period.,Just read the instruction carefully. The task is pretty easy.,1,0
+331,43,Low,TRUE,1260.769,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,7,7,7,7,7,7,"You can switch to task 2 any time you want, however, you can only complete it once (or zero) times. At period 22, task 2's earnings are the highest.","Since at period 22, task 2's earnings were highest, and I wanted to maximize earnings, I switched to task 2 at period 22.",Switch to task 2 at period 22 and DON'T GET DISTRACTED BY THE POODLE!,0,0
+332,43,Low,TRUE,123.3979,3,0,0,0,1,0,1,1,0,0,0,1,1,0,745,1,6,5,7,7,6,7,Rules were to complete two tasks to receive earnings. Task 1: make a poodle jump a height of 75 for a certain number of periods. Task 2: slide sliders to 50.,When I reached over 75 I figured it was time to do task 2.,Read the questions very carefully and make sure you understand what you need to do.,1,1
+333,43,Low,TRUE,1262.759,5,0,0,0,1,0,1,1,1,0,1,1,1,0,1425,1,6,7,7,5,7,7,"For the poodle jump game, one must click the left-right mouse keys in order to position the poodle to land accurately on a platform. Once a cumulative height of 75 unit has been reached, the player is rewarded 25c. For task 2, one must slide the bars to give a reading of 50. For maximal gains, switch to task 2 ruring period 2.",Based on my perceived maximized gains during period 2.,"For the poodle game, steadiness is the key.",0,0
+334,43,Low,TRUE,1284.426,3,0,0,0,1,0,1,0,0,0,1,1,1,0,1425,1,7,4,7,6,4,7,Keep phones away. Task 2 can only be done once. No talking/communicating. There are 30 periods.,I decided to switch to task 2 when I was at least half way in my periods. (>15 periods),Maybe switch to task 2 a bit later in periods.,0,1
+335,44,Low,TRUE,1264.328,3,0,0,0,1,0,1,1,0,0,0,1,1,0,1425,1,7,7,7,7,7,7,"In task 1, poodle jump, the poodle had to reach a height of 75 and if it fell then it would start again but your count will begin from where you fall. In task 2, the sliders had to be brought to 50 under 1 minute.",In order to maximize my earnings I decided to go for task 2.,"Read, understand he rules. Ask questions.",1,0
+336,44,Low,TRUE,1262.024,4,0,0,0,1,0,1,1,0,0,1,1,1,0,1425,1,5,6,7,7,7,7,Use the left/right sides of the mouse to jump a poodle. Each round: $0.25. Switch to sliders only once to earn more money. During round 22 you get the most earnings from the sliders. Only complete the sliders once.,When it became round 22.,Pay attention to the numbers in the right top corner.,0,0
+337,44,Low,TRUE,1263.236,6,0,0,0,1,0,1,1,1,1,1,1,1,0,1425,1,6,7,7,6,7,7,"For each period, your goal was to jump 75 m and you will earn 25c for each completed period w/ 75 m jumped. You can do task 2 whenever you want, but the highest pay is at period 22.",I decided to switch at period 2 because it had the highest pay.,"If you jump ""out of the screen"" from the left, you will end up on the right side of the screen and vice versa.",0,1
+338,45,Low,TRUE,1200.841,4,0,0,0,1,0,1,1,1,0,0,1,1,0,745,1,7,5,7,6,3,7,Jump to 75 or so and patiently wait for the 22nd stage.,I mistakenly switched at 21 instead of 22 so was unable to maximize the profit.,Don't mess up when to switch.,0,0
+339,46,Low,TRUE,1263.132,5,0,0,0,1,0,1,1,1,1,1,1,0,0,1425,1,5,6,4,7,7,3,"In this experiment, users play a modified version of ""Doodle Jump"" and must reach a height of 75 each period. There is also a secondary task that requires a slider that must be adjusted to 50.",I really took that part in the instructions to heart.,Press j on period 22 and it's all uphill from there.,0,0
+340,46,Low,TRUE,564.0663,5,0,0,0,1,0,1,1,1,0,1,1,1,0,745,1,3,3,5,6,3,5,Can switch between two tasks only once. 22nd period was highest paid.,"Randomly tried if I switch to task 2, I wouldn't lose money previously earned.",Pay more attention to the rule details.,1,0
+341,47,Low,TRUE,1289.486,4,0,0,0,1,0,1,1,1,0,0,1,1,0,1425,1,4,7,7,7,7,7,You jump a poodle on platforms each period and there are 30 periods. There's a time you can do task 2 between the 30 periods. Can only do task 2 once.,I remembered when was the best time.,Remember when the best time to do task 2 if you want to maximize profits.,0,0
+342,47,Low,TRUE,1263.394,6,0,0,0,1,0,1,1,1,1,1,1,1,1,1400,1,5,5,7,7,6,7,"Use mouse to conduct poodle to jump to the height of 75 and when time turn to 22 period, start task 2.",When I saw the timer pass 21:00.,Read the instruction carefully.,1,0
+343,47,Low,TRUE,1260.534,4,0,0,0,1,0,1,0,1,1,1,0,1,0,1425,1,7,6,6,7,4,7,The rules of part was to make Ryhl Aleeson fo the Ryheffol,I decided when the payout was 7. Buels fo can more.,"That py alfulu fo inhiln, no thp chye at tuin anise wh lo swfol.",0,0
