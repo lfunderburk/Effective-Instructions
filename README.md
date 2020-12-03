@@ -7,7 +7,7 @@ This repository contains the data file and part of the statistical analysis for 
 This code contains the following analysis:
 - Average Non-money maximizing behavior (NMB) and average quiz score, by treatment.
 - Fisher's exact test of no association between treatments and NMB.
-- Kruskal-Wallis tst to compare distribution of quiz score across treatments.
+- Kruskal-Wallis test to compare distribution of quiz score across treatments.
 - Goodman and Kruskal's gamma: tests of association between quiz scores and NMB.
 - Wilcoxon rank-sum tests: test whether some treatments improved quiz scores.
 - Logistic regressions:
