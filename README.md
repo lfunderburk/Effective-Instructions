@@ -1,6 +1,6 @@
 # Effective-Instructions
-By: Hanh Tong  
-Joint work with David Freeman, Erik Kimbrough, and Garrett Petersen.  
+Author: David Freeman, Erik Kimbrough, and Garrett Petersen, and Hanh Tong  
+ 
 
 This repository contains the data file and part of the statistical analysis for the paper ["Instructions"](https://link.springer.com/article/10.1007/s40881-018-0059-0?error=cookies_not_supported&error=cookies_not_supported&code=8fe07e78-e48f-4541-b975-ebbceaa213b5&code=cde031c5-f019-4626-96fb-600f2162fe77).  
 
