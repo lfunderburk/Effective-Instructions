@@ -1,6 +1,5 @@
 # R code for statistical analysis for "Instructions" paper
-# By: Hanh Tong
-# Joint work with: David Freeman, Erik Kimbrough, and Garrett Petersen
+# Author: David Freeman, Erik Kimbrough, Garrett Petersen, and Hanh Tong
 
 # This code is part of the statistical analysis for "Instructions" paper
 # This code contains the following analysis:
@@ -18,7 +17,7 @@
 
 #--------------------------------------------------------------------------
 # get the packages
-# install.packages('pacman') # install the pacman package if not already there
+install.packages('pacman') 
 pacman::p_load(dplyr, tidyr, tibble, DescTools, mediation, sandwich, stargazer)
 
 # set path and working directory
