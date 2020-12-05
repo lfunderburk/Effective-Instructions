@@ -1,4 +1,4 @@
-# R code for statistical analysis for "Instructions" paper
+# R code for statistical analysis for "Instructions" paper (JESA)
 # Author: David Freeman, Erik Kimbrough, Garrett Petersen, and Hanh Tong
 
 # This code is part of the statistical analysis for "Instructions" paper
