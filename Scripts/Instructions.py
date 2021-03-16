@@ -85,23 +85,6 @@ class Regression():
         log_reg = sm.Logit(Y, X).fit() 
         return log_reg.summary()
         
-#----------------------------------------------------------------------------    
-## logistic regression
-## defining the dependent and independent variables 
-# dummies_log = pd.get_dummies(dat['treat'])
-# test = pd.concat([dat, dummies_log], axis=1)
-# ## exclude t2 as the baseline for comparison
-# exp_var_log = ['t1','t2','t3', 't4', 't5', 't6', 't7'] 
-# X_log = test[[*exp_var_log]] # doesn't work without *
-# # need to add constant to run regression with an intercept
-# X_log = sm.add_constant(X_log)
-# Y = test[['NMB']]
-
-# ## building the model and fitting the data 
-# log_reg = sm.Logit(Y, X_log).fit() 
-# print(log_reg.summary())
-
-#----------------------------------------------------------------------------
 
 def check_info(data):
     '''
@@ -185,7 +168,6 @@ if __name__ == '__main__':
     input_exp_var = options.explanatory_variable
     input_baseline = options.baseline
 
-    #file_location = r"D:\Code for GitHub\Effective-Instructions\Data\CompiledData-earnings.csv"
     data_object = InstructionsData(file_location)
     data = data_object.read_data()
     dat = data[data['Treatment'] == 'Low']
@@ -205,59 +187,3 @@ if __name__ == '__main__':
 
 
 
-
-## logistic regression
-## defining the dependent and independent variables 
-# dummies_log = pd.get_dummies(dat['treat'])
-# test = pd.concat([dat, dummies_log], axis=1)
-
-# ## exclude t2 as the baseline for comparison
-# exp_var_log = ['t1','t3', 't4', 't5', 't6', 't7'] 
-# X_log = test[[*exp_var_log]] # doesn't work without *
-# # need to add constant to run regression with an intercept
-# X_log = sm.add_constant(X_log)
-# Y = test[['NMB']]
-
-   
-# ## building the model and fitting the data 
-# log_reg = sm.Logit(Y, X_log).fit() 
-# print(log_reg.summary())
-
-
-
-
-
-
-# =============================================================================
-#
-# #--------------------------------------------------------------------------------
-# # agg()
-# dat.groupby('treat').agg(
-#     average_QuizScore = ('QuizScore', 'mean'),
-#     average_NMB = ('NMB', 'mean'))
-#
-#
-#
-# #--------------------------------------------------------------------------------
-# # Kruskal test
-# stats.kruskal(dat[dat['treat']=='t2'].QuizScore,
-#               dat[dat['treat']=='t3'].QuizScore,
-#               dat[dat['treat']=='t5'].QuizScore)
-#
-# #--------------------------------------------------------------------------------
-# # Wilcoxon test
-# for i in ['t4','t6','t7']:
-#     stats.ranksums(dat[dat.treat.isin(['t2', 't3', 't5'])].QuizScore,
-#                dat[dat.treat == i].QuizScore)
-# #
-#
-# stats.ranksums(dat[dat.treat.isin(['t2', 't3', 't5'])].QuizScore,
-#                dat[dat.treat =='t4'].QuizScore)
-#
-# stats.ranksums(dat[dat.treat.isin(['t2', 't3', 't5'])].QuizScore,
-#                dat[dat.treat =='t6'].QuizScore)
-#
-# stats.ranksums(dat[dat.treat.isin(['t2', 't3', 't5'])].QuizScore,
-#                dat[dat.treat =='t7'].QuizScore)
-#
-# #--------------------------------------------------------------------------------
